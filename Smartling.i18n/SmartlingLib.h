@@ -18,6 +18,8 @@
 //  Created by Pavel Ivashkov on 2015-05-15.
 //
 
+#import <Foundation/Foundation.h>
+
 //! Project version number for SmartlingLib.
 FOUNDATION_EXPORT double SmartlingLibVersionNumber;
 
